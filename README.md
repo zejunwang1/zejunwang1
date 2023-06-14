@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zejunwang1
 - 👀 I’m interested in Natural Language Processing and Machine Learning.
-- 🌱 I’m currently learning Pre-trained Language Model / sentence embedding / Chinese Spelling Check.
+- 🌱 I’m currently learning Pre-trained Language Model / instruction tuning / Chinese Spelling Check.
 - 📫 How to reach me: wangzejunscut@126.com
 - 💞️ WeChat official account: CNLP
 - 😄 WeChat: autonlp
