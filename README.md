@@ -6,7 +6,7 @@
 - 😄 WeChat: autonlp
 
 ![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zejunwang1&hide=prs)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zejunwang1&langs_count=4&hide=javascript,go,html,css,tex,Roff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zejunwang1&langs_count=3&hide=javascript,go,html,css,tex,Roff)
 
 
 <!---
