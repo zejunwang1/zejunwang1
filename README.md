@@ -5,13 +5,12 @@
 - 💞️ WeChat official account: WangNLP
 - 😄 WeChat: autonlp
 
-<!---
-| <a href="https://github.com/zejunwang1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zejunwang1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/zejunwang1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejunwang1&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
---->
 
 | <a href="https://github.com/zejunwang1"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zejunwang1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/zejunwang1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejunwang1&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+[![zejunwang1's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zejunwang1&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zejunwang1&hide=prs)
