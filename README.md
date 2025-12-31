@@ -2,7 +2,7 @@
 - 👀 I’m interested in Natural Language Processing and Machine Learning.
 - 🌱 I’m currently learning Pre-trained Language Model / Chinese Text Correction.
 - 📫 How to reach me: wangzejunscut@126.com
-- 💞️ WeChat official account: WangNLP
+- 💞️ WeChat official account: **NLP与数学爱好者**
 - 😄 WeChat: autonlp
 
 <!---
