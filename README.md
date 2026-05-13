@@ -10,10 +10,10 @@
 | ------------- | ------------- |
 --->
 
-
+<!---
 [![zejunwang1's GitHub stats](https://github-readme-stats.quantumlytangled.vercel.app/api?username=zejunwang1&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=zejunwang1&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true&count_private=true)
-
+--->
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zejunwang1&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true)
